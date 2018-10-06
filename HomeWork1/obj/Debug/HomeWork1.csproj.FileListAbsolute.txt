@@ -1,0 +1,2 @@
+C:\Users\user\Documents\C# уровень 1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
