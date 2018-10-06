@@ -1,0 +1,5 @@
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task2\bin\Debug\Task2.exe.config
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task2\bin\Debug\Task2.exe
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task2\bin\Debug\Task2.pdb
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task2\obj\Debug\Task2.exe
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task2\obj\Debug\Task2.pdb

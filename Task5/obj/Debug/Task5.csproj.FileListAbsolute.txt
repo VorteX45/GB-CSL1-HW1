@@ -1,0 +1,6 @@
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\bin\Debug\Task5.exe.config
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\bin\Debug\Task5.exe
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\bin\Debug\Task5.pdb
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\obj\Debug\Task5.exe
+C:\Документы\GeekBrains\C# уровень 1\HomeWork1\Task5\obj\Debug\Task5.pdb
